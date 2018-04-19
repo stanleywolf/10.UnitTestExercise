@@ -1,0 +1,9 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\04.BubbleSort\bin\Debug\netcoreapp2.0\04.BubbleSort.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\04.BubbleSort\bin\Debug\netcoreapp2.0\04.BubbleSort.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\04.BubbleSort\bin\Debug\netcoreapp2.0\04.BubbleSort.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\04.BubbleSort\obj\Debug\netcoreapp2.0\04.BubbleSort.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\04.BubbleSort\obj\Debug\netcoreapp2.0\04.BubbleSort.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\04.BubbleSort\obj\Debug\netcoreapp2.0\04.BubbleSort.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\04.BubbleSort\obj\Debug\netcoreapp2.0\04.BubbleSort.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\04.BubbleSort\obj\Debug\netcoreapp2.0\04.BubbleSort.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\04.BubbleSort\obj\Debug\netcoreapp2.0\04.BubbleSort.pdb

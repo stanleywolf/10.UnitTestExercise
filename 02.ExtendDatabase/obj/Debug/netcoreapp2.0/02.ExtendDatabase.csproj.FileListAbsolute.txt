@@ -1,0 +1,9 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\02.ExtendDatabase\bin\Debug\netcoreapp2.0\02.ExtendDatabase.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\02.ExtendDatabase\bin\Debug\netcoreapp2.0\02.ExtendDatabase.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\02.ExtendDatabase\bin\Debug\netcoreapp2.0\02.ExtendDatabase.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\02.ExtendDatabase\obj\Debug\netcoreapp2.0\02.ExtendDatabase.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\02.ExtendDatabase\obj\Debug\netcoreapp2.0\02.ExtendDatabase.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\02.ExtendDatabase\obj\Debug\netcoreapp2.0\02.ExtendDatabase.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\02.ExtendDatabase\obj\Debug\netcoreapp2.0\02.ExtendDatabase.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\02.ExtendDatabase\obj\Debug\netcoreapp2.0\02.ExtendDatabase.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\02.ExtendDatabase\obj\Debug\netcoreapp2.0\02.ExtendDatabase.pdb

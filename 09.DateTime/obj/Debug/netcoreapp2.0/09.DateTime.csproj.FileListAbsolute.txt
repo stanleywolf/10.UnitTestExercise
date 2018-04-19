@@ -1,0 +1,9 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\09.DateTime\bin\Debug\netcoreapp2.0\09.DateTime.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\09.DateTime\bin\Debug\netcoreapp2.0\09.DateTime.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\09.DateTime\bin\Debug\netcoreapp2.0\09.DateTime.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\09.DateTime\obj\Debug\netcoreapp2.0\09.DateTime.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\09.DateTime\obj\Debug\netcoreapp2.0\09.DateTime.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\09.DateTime\obj\Debug\netcoreapp2.0\09.DateTime.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\09.DateTime\obj\Debug\netcoreapp2.0\09.DateTime.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\09.DateTime\obj\Debug\netcoreapp2.0\09.DateTime.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\09.DateTime\obj\Debug\netcoreapp2.0\09.DateTime.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\03.IteratorTests\bin\Debug\netcoreapp2.0\03.IteratorTests.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\03.IteratorTests\bin\Debug\netcoreapp2.0\03.IteratorTests.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\03.IteratorTests\bin\Debug\netcoreapp2.0\03.IteratorTests.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\03.IteratorTests\bin\Debug\netcoreapp2.0\03.IteratorTests.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\03.IteratorTests\bin\Debug\netcoreapp2.0\03.IteratorTests.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\03.IteratorTests\obj\Debug\netcoreapp2.0\03.IteratorTests.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\03.IteratorTests\obj\Debug\netcoreapp2.0\03.IteratorTests.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\03.IteratorTests\obj\Debug\netcoreapp2.0\03.IteratorTests.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\03.IteratorTests\obj\Debug\netcoreapp2.0\03.IteratorTests.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\03.IteratorTests\obj\Debug\netcoreapp2.0\03.IteratorTests.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\03.IteratorTests\obj\Debug\netcoreapp2.0\03.IteratorTests.pdb

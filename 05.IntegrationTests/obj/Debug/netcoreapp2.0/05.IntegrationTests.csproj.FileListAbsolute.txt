@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\05.IntegrationTests\bin\Debug\netcoreapp2.0\05.IntegrationTests.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\05.IntegrationTests\bin\Debug\netcoreapp2.0\05.IntegrationTests.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\05.IntegrationTests\bin\Debug\netcoreapp2.0\05.IntegrationTests.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\05.IntegrationTests\bin\Debug\netcoreapp2.0\05.IntegrationTests.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\05.IntegrationTests\bin\Debug\netcoreapp2.0\05.IntegrationTests.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\05.IntegrationTests\obj\Debug\netcoreapp2.0\05.IntegrationTests.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\05.IntegrationTests\obj\Debug\netcoreapp2.0\05.IntegrationTests.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\05.IntegrationTests\obj\Debug\netcoreapp2.0\05.IntegrationTests.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\05.IntegrationTests\obj\Debug\netcoreapp2.0\05.IntegrationTests.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\05.IntegrationTests\obj\Debug\netcoreapp2.0\05.IntegrationTests.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\10.UnitTestExercise\05.IntegrationTests\obj\Debug\netcoreapp2.0\05.IntegrationTests.pdb
